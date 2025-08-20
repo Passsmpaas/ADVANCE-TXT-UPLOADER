@@ -2,7 +2,7 @@
 {
     "name": "anonymous",
     "description": "anonymous",
-    "repository": "https://github.com/",
+    "repository": "https://github.com/Passsmpaas/ADVANCE-TXT-UPLOADER",
     "keywords": [
         "telegram bot",
         "pyrogram"
@@ -10,19 +10,19 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":"20114039"
+            "value":"22470912"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":"87297b8f3cc8fc9bbce591ad30da5896"
+		    "value":"511be78079ed5d4bd4c967bc7b5ee023"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":"7559250442:AAF_HDC3Fb_yG6xHxXkRhhwlMm3LiwT9MkE"
+            "value":"7254519583:AAEdEM7ct3pVEOwbBCGWJOWd7ghUETT-Yp0"
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-             "value":"8172163893"
+             "value":"7678862761"
        
 	}
     },
